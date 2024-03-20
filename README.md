@@ -1,6 +1,4 @@
 # CPE019-CPE32S9
-Hello there, I'm Kristian Dayrit
-
-BSCPE Student in TIP QC
-
-Skills: HTML | Python | C | Database
+- 👋 Hi, I’m Kristian Dayrit
+- 👀 I’m currently studying BSCPE in TIP QC
+- 🌱 I’m currently learning HTML | Python | C | Database
